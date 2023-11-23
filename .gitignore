@@ -163,4 +163,6 @@ cython_debug/
 *.zip
 dataset/
 
+models/
+
 .DS_Store

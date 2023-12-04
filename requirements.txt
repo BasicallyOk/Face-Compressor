@@ -1,4 +1,4 @@
-tensorflow
-matplotlib
-ipykernel
-pydot
+tensorflow==2.14.0
+matplotlib # version dont matter
+ipykernel==6.26.0
+pydot # Also should not matter

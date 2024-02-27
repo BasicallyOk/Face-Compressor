@@ -1,6 +1,15 @@
 # CISC452-Project
 Autoencoder for compressing and decompressing faces
 
+# Results
+Refer to the [paper](https://docs.google.com/document/d/1AIiq580SGVutih1R2eXlf_lk4IIEy8pPtDl6SzSJS_o/edit) for more details.
+
+Reconstructed Images by the Deep Convolutional Generative Adversarial Network
+![Reconstructed Images by the DCGAN and the originals](/visualization/dcgan.png)
+
+Reconstructed Images by the Convolutinal Variatinoal Autoencoder
+![Reconstructed Images by the DCGAN and the originals](/visualization/cvae.png)
+
 # Instructions
 ### Environment Setup
 Skip 2 and 3 if you're lazy/a maniac. 

@@ -1,5 +1,5 @@
 # CISC452-Project
-Autoencoder for compressing and decompressing faces
+Investigating deep learning methods for compressing and decompressing faces
 
 # Results
 Refer to the [paper](https://docs.google.com/document/d/1AIiq580SGVutih1R2eXlf_lk4IIEy8pPtDl6SzSJS_o/edit) for more details.
